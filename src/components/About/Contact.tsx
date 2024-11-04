@@ -5,13 +5,13 @@ const Contact = () => {
   return (
     <div className="mt-4 flex space-x-4">
       <a
-        href="mailto:john@example.com"
+        href="mailto:samueltlahuel.m@gmail.com"
         className="text-[#ff6b6b] hover:text-[#ff8787] transition-colors"
       >
         <Mail size={24} />
       </a>
       <a
-        href="https://github.com/johndoe"
+        href="https://github.com/WatterAH/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-[#54a0ff] hover:text-[#72b5ff] transition-colors"
@@ -19,7 +19,7 @@ const Contact = () => {
         <Github size={24} />
       </a>
       <a
-        href="https://linkedin.com/in/johndoe"
+        href="https://www.linkedin.com/in/samuel-tlahuel-b84342297/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-[#5f27cd] hover:text-[#7843d6] transition-colors"
