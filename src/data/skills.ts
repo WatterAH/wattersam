@@ -41,7 +41,7 @@ const skillsObj: Skill[] = [
     img: "https://img.icons8.com/?size=100&id=123603&format=png",
   },
   {
-    name: "RN",
+    name: "Native",
     img: "https://img.icons8.com/?size=100&id=123603&format=png",
   },
   {
